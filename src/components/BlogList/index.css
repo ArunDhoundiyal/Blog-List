@@ -1,0 +1,24 @@
+.each-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 40px;
+  font-family: roboto;
+}
+
+.title-description-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  color: #12022f;
+  font-size: 22px;
+}
+
+.description {
+  color: #9aa5b1;
+}
+.publishedDate {
+  color: #9aa5b1;
+}

@@ -1,0 +1,13 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+  width: 100%;
+}
+.list-container {
+  list-style-type: none;
+  align-self: flex-start;
+  width: 100%;
+}
